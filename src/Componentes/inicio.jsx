@@ -32,7 +32,7 @@ const Libros = () => {
         </a>
         <h3>Descripcion</h3>
         <p>
-          obre mí Soy un apasionado del desarrollo de software y la tecnología.
+          Sobre mí Soy un apasionado del desarrollo de software y la tecnología.
           Desde 2024 he estado inmerso en el mundo de la programación, lo que me ha hecho
           desarrollar habilidades de organización y resolución de problemas.
           Actualmente estudio Desarrollo y Calidad de Software en la UNSTA y
