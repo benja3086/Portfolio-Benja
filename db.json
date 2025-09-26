@@ -1,0 +1,59 @@
+{
+  "repuestos": [
+    {
+      "id": "1",
+      "nombre": "heladera blanca",
+      "cantidad": 10,
+      "categoria": "Heladeras",
+      "descripcion": "esta va a la heladera blancas nomas"
+    },
+    {
+      "id": "3",
+      "nombre": "Secarropas whirlpool",
+      "cantidad": 15,
+      "categoria": "Secarropas"
+    },
+    {
+      "id": "a5de",
+      "nombre": "heladera negra",
+      "cantidad": 0,
+      "categoria": "Heladeras",
+      "descripcion": ""
+    },
+    {
+      "id": "9d66",
+      "nombre": "heladera rosa",
+      "cantidad": 0,
+      "categoria": "Heladeras",
+      "descripcion": ""
+    },
+    {
+      "id": "162f",
+      "nombre": "secarropa wirpul",
+      "cantidad": 20,
+      "categoria": "Secarropas",
+      "descripcion": ""
+    },
+    {
+      "id": "b7bd",
+      "nombre": "drean blue",
+      "cantidad": 0,
+      "categoria": "Lavarropas",
+      "descripcion": ""
+    },
+    {
+      "id": "18d7",
+      "nombre": "lavarropa blanco",
+      "cantidad": 0,
+      "categoria": "Lavarropas",
+      "descripcion": ""
+    },
+    {
+      "id": "e490",
+      "nombre": "horno",
+      "cantidad": 0,
+      "categoria": "Otro",
+      "descripcion": ""
+    }
+  ]
+}

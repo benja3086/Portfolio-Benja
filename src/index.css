@@ -1,0 +1,73 @@
+
+
+@media (max-width: 900px) {
+  .contenedor-libros {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 14px;
+  }
+
+  .tarjeta-libro {
+    max-width: 180px;
+    height: 400px;
+    padding: 10px;
+  }
+
+  .tarjeta-libro img {
+    width: 140px;
+    height: 230px;
+  }
+
+  .titulo-libro {
+    font-size: 1rem;
+  }
+
+  .precio {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .contenedor-libros {
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 12px;
+  }
+
+  .tarjeta-libro {
+    max-width: 150px;
+    height: 350px;
+    padding: 8px;
+  }
+
+  .tarjeta-libro img {
+    width: 120px;
+    height: 200px;
+  }
+
+  .titulo-libro {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    padding: 0 4px;
+  }
+
+  .precio {
+    font-size: 0.95rem;
+  }
+
+  .buscador-contenedor {
+    max-width: 280px;
+  }
+
+  .buscador {
+    font-size: 14px;
+  }
+
+  .boton-lupa {
+    font-size: 16px;
+    padding: 10px 12px;
+  }
+
+  .icono-lupa {
+    width: 18px;
+    height: 18px;
+  }
+}
