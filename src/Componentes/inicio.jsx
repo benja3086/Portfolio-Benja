@@ -6,6 +6,7 @@ import "./inicio.css";
 import imagen from "../assets/ImagenPagina.png";
 import imagen1 from "../assets/PaginaRepuestos.jpg";
 import imagen2 from "../assets/radiotucuman.png";
+import imagen3 from "../assets/benjasinfondo.png";
 
 const Libros = () => {
   const [busqueda, setBusqueda] = useState("");
@@ -20,6 +21,9 @@ const Libros = () => {
           el área de desarrollo y calidad de software, con la meta de expandir
           mis conocimientos y habilidades en el campo tecnológico.
         </p>
+        <div className="foto-perfil">
+          <img src={imagen3} alt="Foto de Benjamin" />
+        </div>
         <a
           href="https://github.com/benja3086"
           target="_blank"
@@ -31,8 +35,9 @@ const Libros = () => {
           </button>
         </a>
         <h3>Descripcion</h3>
+        <h4>Sobre mi</h4>
         <p>
-          Sobre mí Soy un apasionado del desarrollo de software y la tecnología.
+           Soy un apasionado del desarrollo de software y la tecnología.
           Desde 2024 he estado inmerso en el mundo de la programación, lo que me ha hecho
           desarrollar habilidades de organización y resolución de problemas.
           Actualmente estudio Desarrollo y Calidad de Software en la UNSTA y
